@@ -28,7 +28,7 @@ In [options](docs/KeePassDarkThemeCustomOptions.png) `Tools -> Options... -> Kee
   
 ### Custom Themes
 
-Copy any pre-existing themes from this repo's `themes` directory. Place theme files inside the KeePass Plugins directory (e.g. `C:\Program Files\KeePass\plugins`). Open the KeeTheme settings within KeePass and choose the theme from the dropdown menu.
+Copy any pre-existing themes from this repo's `themes` directory and place theme files inside the KeePass Plugins directory (e.g. `C:\Program Files\KeePass\plugins`). Then open the KeeTheme settings and choose the theme from the dropdown menu.
 
 You can also use the built-in theme editor to create your own theme.
 
