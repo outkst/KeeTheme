@@ -64,3 +64,11 @@ Therefore, the plugin is not perfect and never will be, but it is good enough to
 ![Open database](docs/KeePassDraculaThemeOpenDatabase.png)
 
 ![Options](docs/KeePassDraculaThemeOptions.png)
+
+#### Monokai
+
+![Main form](docs/KeePassMonokaiTheme.png)
+
+![Open database](docs/KeePassMonokaiThemeOpenDatabase.png)
+
+![Options](docs/KeePassMonokaiThemeOptions.png)
