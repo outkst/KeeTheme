@@ -80,3 +80,11 @@ Therefore, the plugin is not perfect and never will be, but it is good enough to
 ![Open database](docs/KeePassSolarizedDarkThemeOpenDatabase.png)
 
 ![Options](docs/KeePassSolarizedDarkThemeOptions.png)
+
+#### Ubuntu
+
+![Main form](docs/KeePassUbuntuTheme.png)
+
+![Open database](docs/KeePassUbuntuThemeOpenDatabase.png)
+
+![Options](docs/KeePassUbuntuThemeOptions.png)
