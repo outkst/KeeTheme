@@ -72,3 +72,11 @@ Therefore, the plugin is not perfect and never will be, but it is good enough to
 ![Open database](docs/KeePassMonokaiThemeOpenDatabase.png)
 
 ![Options](docs/KeePassMonokaiThemeOptions.png)
+
+#### Solarized Dark
+
+![Main form](docs/KeePassSolarizedDarkTheme.png)
+
+![Open database](docs/KeePassSolarizedDarkThemeOpenDatabase.png)
+
+![Options](docs/KeePassSolarizedDarkThemeOptions.png)
